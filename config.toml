@@ -19,6 +19,8 @@ theme = "codex"
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 # googleAnalytics = "" 
 
+title = "Building stuff"
+
 # Optional params
 [params]
   # Follow the Hugo date/time format reference here: 
