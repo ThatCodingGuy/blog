@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm Mathieu."
-subheading: "I write about building stuff, both software and physical"
+subheading: "I write about stuff"
 handle: "thatcodingguy"
 ---
